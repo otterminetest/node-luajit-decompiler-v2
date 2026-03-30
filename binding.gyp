@@ -54,9 +54,6 @@
               "-funsigned-char",
               "-std=c++20",
               "-fexceptions"
-            ],
-            "OTHER_LDFLAGS": [
-              "-Wl,-stack_size,268435456"
             ]
           }
         }]
